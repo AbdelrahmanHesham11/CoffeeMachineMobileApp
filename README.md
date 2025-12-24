@@ -14,7 +14,12 @@ The core idea was to build a simple, reliable interface that allows a user to **
 Although the interface is intentionally minimal, the project required deep problem-solving across **hardware integration, mobile development, and system safety**.
 
 ---
+## Demo / Project Slides
+If you want to see the project in action or review the full presentation slides, check out the Google Slides I created:
 
+🔗 [Project Presentation Slides](https://docs.google.com/presentation/d/1TYS4fN7J2qgh6N-bV0MsCAjUKOUw1PTP/edit?usp=sharing)
+
+---
 ## Main Functionality
 - Mobile application connects to **HC-05 Bluetooth module**
 - Sends binary signals:
