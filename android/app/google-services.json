@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419595812900",
+    "project_id": "dhoni-coffee-machine",
+    "storage_bucket": "dhoni-coffee-machine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419595812900:android:1c34a0b73bc2f2f15ed8b1",
+        "android_client_info": {
+          "package_name": "com.example.dhoni_coffee_machine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAgRRqa13bcbOReDAfXLT64j_BqUkB7eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

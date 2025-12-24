@@ -1,0 +1,13 @@
+export 'add_new_machine_routes.dart';
+export 'forgot_password_routes.dart';
+export 'home_machine_routes.dart';
+export 'home_routes.dart';
+export 'on_boarding_routes.dart';
+export 'order_payment_routes.dart';
+export 'pairing_complete_routes.dart';
+export 'preparing_coffee_routes.dart';
+export 'profile_routes.dart';
+export 'public_machine_routes.dart';
+export 'sign_in_routes.dart';
+export 'sign_up_routes.dart';
+export 'verification_routes.dart';
