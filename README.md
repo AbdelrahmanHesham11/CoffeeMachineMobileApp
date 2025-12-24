@@ -59,7 +59,6 @@ This allowed me to verify Bluetooth communication by controlling the LED remotel
 A coffee machine with a **single on/off button** was selected to simplify control logic.  
 Since no wiring blueprint was available, each wire’s function had to be identified manually.
 
-With the help of my friend **Abdelrahman Hassan**, we:
 - Identified the correct control wires
 - Integrated the relay safely
 - Ensured proper grounding
@@ -100,4 +99,21 @@ To improve aesthetics and safety:
 ## Firebase & Configuration
 Firebase configuration files have been **intentionally removed** from this repository.
 
+## Self-Learning & Technical Growth
+A major aspect of this project was **self-learning**, particularly in areas outside my formal coursework.
+
+Throughout the development process, I independently learned:
+- How basic **electronics principles** work in practice (voltage, current flow, grounding, and safety)
+- How **Arduino** interacts with external hardware modules
+- How the **HC-05 Bluetooth module** communicates over serial (TX/RX) and handles pairing and data transmission
+- How **relay modules** operate to safely control high-power devices using low-power signals
+- How to identify and test unknown wiring when no circuit diagram is available
+- How to design software logic that accounts for **real-world hardware risks**, not just code correctness
+
+This project required understanding how **software decisions directly affect physical components**, which significantly strengthened my ability to reason about systems holistically rather than treating hardware and software as isolated parts.
+
+The experience reinforced my confidence in **learning new technologies independently**, troubleshooting unfamiliar systems, and applying theoretical knowledge to real-world scenarios under time constraints.
+
+
+## Hope you enjoyed:)!
 
